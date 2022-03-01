@@ -1,0 +1,5 @@
+#!/usr/bin/php
+<?php
+echo "Php Shell Script\n";
+echo "Hildan Rizky Ramadhan\n20090011\n4A\n";
+?>
